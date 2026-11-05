@@ -20,7 +20,10 @@ print(substringText)
 text = "Python is awesome"
 words = text.split()
 print("Words:", words) #returns an array of split strings
-##########################################3
+##########################################
+
+
+
 
 
 
